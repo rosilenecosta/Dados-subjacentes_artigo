@@ -1,4 +1,5 @@
 Dados-parciais# Dados-subjacentes_artigo
+
 Prezado Editor Roberto Ternes Arrial,
 Agradecemos pela leitura atenta e pelas sugestões destinadas ao aprimoramento do artigo intitulado “Competências digitais nos currículos formais de graduação em Ciências Contábeis” (ID 6635).
 Conforme solicitado, organizamos e disponibilizamos os dados subjacentes referentes aos conteúdos curriculares analisados no estudo. Nossa análise foi orientada pelas categorias apresentadas na Figura 1, fundamentadas na literatura sobre a Teoria das Competências, e sintetizadas nas Tabelas 1, 2 e 3 do artigo.
