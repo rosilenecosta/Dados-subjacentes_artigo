@@ -1,2 +1,2 @@
-Dados-parciais# Dados-subjacentes_artigo
+Dados-parciais# Dados-subjacentes
 
